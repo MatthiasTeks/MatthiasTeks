@@ -1,4 +1,37 @@
-- 👋 Hi, I’m @MatthiasTeks, junior react developer since October 2021 !
-- 📚 I studied at WildCodeSchool as front-end React developer...
-- 🌱 I’m currently learning NextJs and Redux...
-- 👀 I am looking for a first job to develop my knowledge...
+## Hello my name is Matthias 👋 
+
+- 👋 Hi, I’m @MatthiasTeks, full-stack developer since October 2021 ! &nbsp;
+![NODE](https://camo.githubusercontent.com/cc96d7d28a6ca21ddbb1f2521d751d375230ed840271e6a4c8694cf87cc60c14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732532302d2532333433383533442e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465)
+![EXPRESS](https://camo.githubusercontent.com/59a6187d2931601ae33457c918588c4141fc8a5a179440f14bfb4df769a6062d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3430344435393f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661736372697074)
+
+
+- 📚 Formed at WildCodeSchool as front developer, I continue to learn and confirm my skills ! &nbsp;
+![mySQL](https://camo.githubusercontent.com/e1840b4e176feb06e47500d5d74d65041ac3f193192174097956f2bea2ceea5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d4632393131313f7374796c653d666c61742d737175617265266c6f676f3d4d7953514c266c6f676f436f6c6f723d7768697465)
+![REACT](https://camo.githubusercontent.com/d8971eb578649b5861b3b3694bc2684ff4bf5bb346042b20f8f6e26010dce374/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465)
+
+----------------
+
+### Contact me 🤝
+
+[![INSTAGRAM](https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465)](https://www.instagram.com/matt.lz/)
+[![TWITTER](https://camo.githubusercontent.com/abeba81ca3b85319d1c3b9655ad9a170b429d75ea1e9080c3343f84154293408/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722532302d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d54776974746572266c6f676f436f6c6f723d7768697465)](https://twitter.com/TeksPL)
+[![LINKEDIN](https://camo.githubusercontent.com/8bb7c1de40aadb0d8eede2add7716932344b30235088d239831fe0e884de8f82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2532302d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/matthias-vimbert/)
+
+or by mail : mathias.vimbert@gmail.com
+
+----------------
+
+### More about me 👁️
+
+- Matthias 25 years old, I live in Bordeaux and I am an amateur of code and 🎮
+- I am also passionate about travel, my favorite destinations were Prague, Krakow, Lisbon and Rome ✈️
+- I am on the board of directors of an association in the eSport event : [Warzone Factory](https://warzone-factory.com/) 🏆
+
+----------------
+
+### My Goals for 2022 📌
+
+- Master the ReactJS, NextJS, Redux suite 
+- Consolidate my bases in NodeJS Express and mySQL
+- Make my first coding tutorial videos on Youtube and/or Twitch
+
